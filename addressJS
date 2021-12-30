@@ -1,3 +1,5 @@
+const str1='Address Form';
+
 var placeSearch, autocomplete;
 
 // List all address components (corresponds to form field IDs and Google address object)
